@@ -1,0 +1,344 @@
+{
+    "arena": {
+        "xMin": -90,
+        "xMax": 90,
+        "yMin": -90,
+        "yMax": 90,
+        "units": "virtual"
+    },
+    "channel": "v1",
+    "obstacles": [
+        {
+            "type": "wall",
+            "name": "North Wall",
+            "parameters": {
+                "x": -90,
+                "y": 90,
+                "orientation": 0,
+                "width": 180,
+                "height": 20,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "West Wall",
+            "parameters": {
+                "x": -90,
+                "y": -90,
+                "orientation": 90,
+                "width": 180,
+                "height": 8,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "East Wall",
+            "parameters": {
+                "x": 90,
+                "y": -90,
+                "orientation": 180,
+                "width": 180,
+                "height": 8,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "South Wall",
+            "parameters": {
+                "x": 90,
+                "y": 90,
+                "orientation": -90,
+                "width": 180,
+                "height": 8,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+
+
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 0,
+                "y": 0,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 0,
+                "y": 0,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 18,
+                "y": 0,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 0,
+                "y": 18,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+
+
+
+        
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": -54,
+                "y": -54,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": -54,
+                "y": -54,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": -36,
+                "y": -54,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": -54,
+                "y": -36,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+
+
+
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": -72,
+                "y": 36,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": -72,
+                "y": 36,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": -54,
+                "y": 36,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": -72,
+                "y": 54,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+
+
+
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 54,
+                "y": -54,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 54,
+                "y": -54,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 72,
+                "y": -54,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 54,
+                "y": -36,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+
+
+
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 36,
+                "y": 36,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 36,
+                "y": 36,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 54,
+                "y": 36,
+                "orientation": 90,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        },
+        {
+            "type": "wall",
+            "name": "Box 1",
+            "parameters": {
+                "x": 36,
+                "y": 54,
+                "orientation": 0,
+                "width": 18,
+                "height": 9.5,
+                "color": "#404040"
+            },
+            "reality": "R"
+        }
+
+
+
+
+
+    ]
+}
