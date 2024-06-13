@@ -379,7 +379,7 @@
                 "x": 90,
                 "y": -90,
                 "orientation": 0,
-                "width": 18,
+                "width": 27,
                 "height": 9.5,
                 "color": "#404040"
             },
@@ -392,7 +392,7 @@
                 "x": 90,
                 "y": -90,
                 "orientation": 90,
-                "width": 18,
+                "width": 27,
                 "height": 9.5,
                 "color": "#404040"
             },
@@ -402,10 +402,10 @@
             "type": "wall",
             "name": "Box 7",
             "parameters": {
-                "x": 108,
+                "x": 117,
                 "y": -90,
                 "orientation": 90,
-                "width": 18,
+                "width": 27,
                 "height": 9.5,
                 "color": "#404040"
             },
@@ -416,9 +416,9 @@
             "name": "Box 7",
             "parameters": {
                 "x": 90,
-                "y": -72,
+                "y": -63,
                 "orientation": 0,
-                "width": 18,
+                "width": 27,
                 "height": 9.5,
                 "color": "#404040"
             },
