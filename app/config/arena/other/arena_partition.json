@@ -1,4 +1,3 @@
-
 {
     "arena": {
         "xMin": -90,
@@ -20,7 +19,7 @@
                 "height": 20,
                 "color": "#404040"
             },
-            "reality": "R"
+            "reality": "V"
         },
         {
             "type": "wall",
@@ -33,7 +32,7 @@
                 "height": 8,
                 "color": "#404040"
             },
-            "reality": "R"
+            "reality": "V"
         },
         {
             "type": "wall",
@@ -46,7 +45,7 @@
                 "height": 8,
                 "color": "#404040"
             },
-            "reality": "R"
+            "reality": "V"
         },
         {
             "type": "wall",
@@ -59,61 +58,33 @@
                 "height": 8,
                 "color": "#404040"
             },
-            "reality": "R"
+            "reality": "V"
         },
-
         {
             "type": "wall",
-            "name": "wall 1",
+            "name": "Middle Wall - Bottom",
             "parameters": {
-                "x": -45,
+                "x": 0,
                 "y": -90,
                 "orientation": 90,
-                "width": 45,
+                "width": 72,
                 "height": 8,
                 "color": "#404040"
             },
-            "reality": "R"
+            "reality": "V"
         },
         {
             "type": "wall",
-            "name": "wall 2",
+            "name": "Middle Wall - Top",
             "parameters": {
-                "x": 45,
-                "y": -90,
-                "orientation": 90,
-                "width": 45,
-                "height": 8,
-                "color": "#404040"
-            },
-            "reality": "R"
-        },
-        {
-            "type": "wall",
-            "name": "wall 3",
-            "parameters": {
-                "x": -45,
+                "x": 0,
                 "y": 90,
                 "orientation": -90,
-                "width": 45,
+                "width": 72,
                 "height": 8,
                 "color": "#404040"
             },
-            "reality": "R"
-        },
-        {
-            "type": "wall",
-            "name": "wall 4",
-            "parameters": {
-                "x": 45,
-                "y": 90,
-                "orientation": -90,
-                "width": 45,
-                "height": 8,
-                "color": "#404040"
-            },
-            "reality": "R"
+            "reality": "V"
         }
-
     ]
 }
